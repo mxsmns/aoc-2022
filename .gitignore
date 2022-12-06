@@ -1,0 +1,8 @@
+*.egg-info
+*.pyc
+.coverage
+.hypothesis
+.tox
+/venv*
+dist
+coverage.xml
